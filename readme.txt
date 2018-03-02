@@ -1,0 +1,7 @@
+tail -100 readme.txt
+查看文件的尾100行
+head -2 readme.txt
+cat readme.txt 查看文档
+8888888888888888888888
+22222222222222222
+
